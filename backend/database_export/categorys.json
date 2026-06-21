@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "6a0ab12c45aca185167c4c35",
+    "name": "Cà phê",
+    "description": "",
+    "createdAt": "2026-05-18T06:26:52.055Z",
+    "updatedAt": "2026-05-18T06:26:52.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0ab12c45aca185167c4c36",
+    "name": "Trà",
+    "description": "",
+    "createdAt": "2026-05-18T06:26:52.859Z",
+    "updatedAt": "2026-05-18T06:26:52.859Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0ab12d45aca185167c4c37",
+    "name": "Sinh tố",
+    "description": "",
+    "createdAt": "2026-05-18T06:26:53.274Z",
+    "updatedAt": "2026-05-18T06:26:53.274Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0bd5f7b212a2a2193f1d23",
+    "name": "Bánh ngọt",
+    "description": "",
+    "createdAt": "2026-05-19T03:16:07.074Z",
+    "updatedAt": "2026-05-19T03:16:07.074Z",
+    "__v": 0
+  }
+]

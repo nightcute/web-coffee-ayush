@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "69fc3fbf72e716f9c7ac1e42",
+    "name": "night",
+    "email": "123@gmail.com",
+    "password": "$2b$10$.v9sMvLswtVFt.MmqBiEC.3maJTfxvW1nFeq1/i0IIbHQYtedI5dy",
+    "role": "user",
+    "createdAt": "2026-05-07T07:31:11.260Z",
+    "updatedAt": "2026-05-07T07:31:11.260Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0292d3e231c41a582e82a8",
+    "name": "Test User",
+    "email": "test1234@gmail.com",
+    "password": "$2b$10$Xs3cIXn6C77oq4p5wmLpdu6j44sWnDUI8P.Ve873x67RxCfwvVbB.",
+    "role": "user",
+    "createdAt": "2026-05-12T02:39:15.185Z",
+    "updatedAt": "2026-05-12T02:39:15.185Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a029878e231c41a582e82a9",
+    "name": "night2t",
+    "email": "dola@gmail.com",
+    "password": "$2b$10$rli6RZ9VztU40PSzDlQYguAlr7ga6Ppq8mgBe3VCGU2xYJeaT2qE2",
+    "role": "user",
+    "createdAt": "2026-05-12T03:03:20.264Z",
+    "updatedAt": "2026-05-12T03:03:20.264Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0aa231747bd2648b30f406",
+    "name": "dolarick02",
+    "email": "dola1234@gmail.com",
+    "password": "$2b$10$jxoL6v85F0hMov2iCAAuDuEVcH9WMHLiSkwhc/iHQFKWivFzEszfC",
+    "role": "user",
+    "createdAt": "2026-05-18T05:22:57.751Z",
+    "updatedAt": "2026-05-18T05:22:57.751Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0ab2c7502e8a0113f97fe8",
+    "name": "Quản trị viên",
+    "email": "admin@ayush.com",
+    "password": "$2b$10$32uk5V..90hFUOI2CsmKHeOnWM1BsnzYk4NI9MdJlGNjCi7ZXoUhC",
+    "role": "admin",
+    "createdAt": "2026-05-18T06:33:43.895Z",
+    "updatedAt": "2026-05-18T06:33:43.895Z",
+    "__v": 0
+  }
+]
